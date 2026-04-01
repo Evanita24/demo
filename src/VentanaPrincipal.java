@@ -15,7 +15,7 @@ import javafx.stage.Stage;
 public class VentanaPrincipal extends javax.swing.JFrame {
 
     /**
-     * Creates new form VentanaPrincipal
+     * Creates new form VentanaPrincipal 
      */
     public VentanaPrincipal() {
         initComponents();
@@ -27,7 +27,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
     gbc.anchor = GridBagConstraints.CENTER;
 
     
-    JButton btnSwing = new JButton("Diseño Swing");
+    JButton btnSwing = new JButton("Diseño con Swing");
     JButton btnJavaFX = new JButton("Diseño JavaFX");
     JButton btnJTattoo = new JButton("Diseño JTattoo");
 
