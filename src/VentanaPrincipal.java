@@ -27,7 +27,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
     gbc.anchor = GridBagConstraints.CENTER;
 
     
-    JButton btnSwing = new JButton("Diseño con Swing");
+    JButton btnSwing = new JButton("Diseño Swing");
     JButton btnJavaFX = new JButton("Diseño con JavaFX");
     JButton btnJTattoo = new JButton("Diseño con JTattoo");
 
