@@ -28,8 +28,8 @@ public class VentanaPrincipal extends javax.swing.JFrame {
 
     
     JButton btnSwing = new JButton("Diseño con Swing");
-    JButton btnJavaFX = new JButton("Diseño JavaFX");
-    JButton btnJTattoo = new JButton("Diseño JTattoo");
+    JButton btnJavaFX = new JButton("Diseño con JavaFX");
+    JButton btnJTattoo = new JButton("Diseño con JTattoo");
 
     btnSwing.addActionListener(e -> new VentanaSwing().setVisible(true));
     btnJavaFX.addActionListener(e -> {
